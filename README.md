@@ -21,43 +21,18 @@
 ---
 
 ### :computer: About Me :
-I am **Usman**, a Backend Developer from Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, currently working at Metrohype.
-
-- 🔧 Working on the **TechCoin** project (reward developers with $tech coin based on coding time).
-- 🔍 Exploring **real-time** applications with **WebSockets**.
-- 📚 In my free time, I solve coding problems and read tech articles.
 
 ---
 
 ### 🚀 Projects
-- [Dollarhunter](https://github.com/Usmanbalogun044/dollarhunter) - Financial management platform.
-- [Metrohyp](https://github.com/Usmanbalogun044/metrohyp) - API for property listings.
-- **TechCoin** - Reward system for developers (coding time-based rewards).
-
-### 💻 Technologies
-- **Backend:** Laravel
-- **Frontend:** Tailwind CSS
-- **Databases:** MySQL, PostgreSQL
-  
-### 🌱 Currently Learning
-- Advanced API integration with **Laravel**
-- Real-time applications with **WebSockets**
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
 
 ### :fire: My Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanbalogun044&show_icons=true&theme=github)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usmanbalogun044&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbalogun044&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Let's Connect
  <div align="center" style="display:flex;">
