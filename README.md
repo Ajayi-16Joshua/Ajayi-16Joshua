@@ -57,6 +57,4 @@
 ---
 
 ### :skull_and_crossbones: Hacking Mode :
-- 💻 Code and conquer like a hacker!
-- 💼 Focused on backend, but I dabble in frontend too!
-- 🌐 Breaking boundaries one API at a time.
+
